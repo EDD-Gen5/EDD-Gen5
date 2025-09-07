@@ -13,3 +13,7 @@ It was developed to assist with managing complex assemblies by generating struct
 
    ```bash
    python make_assembly_matrix.py tree_19Jan2025.txt
+
+---
+
+# Code written by ChatGPT5

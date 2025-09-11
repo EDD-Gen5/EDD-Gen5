@@ -29,7 +29,7 @@ This repository currently serves as a **placeholder** and will later host:
 ---
 
 ## Available Tools  
-This repository already includes a general-purpose utility:  
+This repository already includes general-purpose utilities:  
 
 ### CAD Assembly Matrix Generator  
 A Python tool that converts a FreeCAD assembly tree (exported as a `.txt` file)  

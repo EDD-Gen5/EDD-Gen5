@@ -5,8 +5,7 @@
 
 ## About  
 EDD-Gen5 is a **non-profit, open-source science experiment**, combining human ingenuity with AI support,  
-to explore whether electromagnetic, mechanical, and momentum principles can be harnessed in a practical generator —  
-for the knowledge and potential benefit of all.
+to explore whether electromagnetic, mechanical, and momentum principles can be harnessed in a practical generator
 
 This repository currently serves as a **placeholder** and will later host:  
 - Research notes and documentation  

@@ -1,5 +1,6 @@
-Simple Fits Picker — Windows GUI (ISO 286 – friendly names)
+Simple Fits Picker (Calculator)
 ====================================================================
+Windows GUI (ISO 286 – friendly names)
 
 What is this?
 -------------

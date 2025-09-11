@@ -33,13 +33,13 @@ This repository currently serves as a **placeholder** and will later host:
 This repository already includes a general-purpose utility:  
 
 ### CAD Assembly Matrix Generator  
-Location: [`/Tools/cad_assembly_matrix_generator/`](Tools/cad_assembly_matrix_generator/)  
-
 A Python tool that converts a FreeCAD assembly tree (exported as a `.txt` file)  
 into a structured spreadsheet (`.xlsx` or `.ods`) showing direct children and rollup parts views.  
+Location: [`/Tools/cad_assembly_matrix_generator/`](Tools/cad_assembly_matrix_generator/)  
 
-This script is not project-specific and may be useful to anyone working with FreeCAD assemblies.  
-See the [tool’s README](Tools/cad_assembly_matrix_generator/README.md) for usage instructions.  
+### CAD Simple Fits Calculator
+A tiny Tkinter desktop app that lets you easily calculate required fits, by selecting types and entering dimensions (mm).  
+Location: [`/simple_fits_picker/`](simple_fits_picker/)  
 
 ---
 

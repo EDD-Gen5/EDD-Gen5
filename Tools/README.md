@@ -17,7 +17,7 @@ See the [tool’s README](cad_assembly_matrix_generator/README.md) for usage ins
 
 ---
 
-### CAD Simple Fits Picker
+### CAD Simple Fits Calculator
 Location: [`/simple_fits_picker/`](simple_fits_picker/)  
 
 A tiny Tkinter desktop app that lets you:
